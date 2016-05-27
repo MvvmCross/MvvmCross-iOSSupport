@@ -83,6 +83,7 @@
     <Compile Include="SidePanels\MvxPanelPopToRootPresentationHint.cs" />
     <Compile Include="SidePanels\MvxPanelPresentationHint.cs" />
     <Compile Include="SidePanels\IMvxSideMenu.cs" />
+    <Compile Include="Views\MvxUIRefreshControl.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
